@@ -1,24 +1,5 @@
-# README
+Professor Github for this Project: https://github.com/udemyrailscourse/bdd_course_rails5/blob/master/Guardfile
+run command: guard --> when doing development and you will be able to watch everything you are doing - see if changes break anything
+line 73 - 90 (watch lines) tell you what files are being 'guarded'
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+rspec spec/features/creating_article_spec.rb --> command to run tests in specific file
